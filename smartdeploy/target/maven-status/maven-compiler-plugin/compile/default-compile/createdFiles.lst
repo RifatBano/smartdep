@@ -1,0 +1,10 @@
+com\cg\smartdeploy\entity\ManagerMaster.class
+com\cg\smartdeploy\dao\LoginDatabase.class
+com\cg\smartdeploy\SmartDeployV1Application.class
+com\cg\smartdeploy\entity\DemandTable.class
+com\cg\smartdeploy\service\LoginService.class
+com\cg\smartdeploy\controller\HomeController.class
+com\cg\smartdeploy\dao\LoginDatabaseImpl.class
+com\cg\smartdeploy\entity\BenchEmployee.class
+com\cg\smartdeploy\entity\Roles.class
+com\cg\smartdeploy\service\LoginServiceImpl.class
